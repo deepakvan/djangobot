@@ -20,6 +20,7 @@ executing
 fastjsonschema
 fonttools
 fqdn
+gunicorn
 idna
 ipykernel
 ipython
