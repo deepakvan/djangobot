@@ -96,6 +96,6 @@ uri-template
 urllib3
 wcwidth
 webcolors
-webencodings=
+webencodings
 websocket-client
 widgetsnbextension
