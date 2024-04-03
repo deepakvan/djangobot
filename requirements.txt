@@ -9,7 +9,6 @@ beautifulsoup4
 bleach
 certifi
 cffi
-charset-normalize
 colorama
 comm
 contourpy
