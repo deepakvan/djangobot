@@ -6,6 +6,7 @@ asttokens
 attrs
 backcall
 beautifulsoup4
+binance-futures-connector
 bleach
 certifi
 cffi
@@ -57,6 +58,7 @@ numpy
 packaging
 pandas
 pandas-ta
+pandas_ta
 pandocfilters
 parso
 pickleshare
@@ -68,6 +70,7 @@ prompt-toolkit
 psutil
 pure-eval
 pycparser
+pycryptodome
 Pygments
 pyparsing
 pyrsistent
