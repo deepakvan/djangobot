@@ -100,4 +100,5 @@ wcwidth
 webcolors
 webencodings
 websocket-client
+whitenoise
 widgetsnbextension
